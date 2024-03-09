@@ -4,9 +4,14 @@ Artificial Intelligence semester project in Python which adjust the system's vol
 <br>
 <br>
 # Libraries and packages used:
+<br>
   Numpy: used to handle array elements
+  <br>
   Mediapipe: used to detect the hand
+  <br>
   Open-cv: used to get the camera vision
+  <br>
+
   Py-caw: used to access the volume of the system
 <br>
 <br>

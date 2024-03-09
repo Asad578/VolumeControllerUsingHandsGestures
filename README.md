@@ -1,9 +1,16 @@
 # VolumeControllerUsingHandsGestures
 Artificial Intelligence semester project in Python which adjust the system's volume using hand's gestures.
-<br>
-# Adjust the volume level according to the distance between the Thumb's tip and the Forefinger's tip.
-<br>
-# LadyFinger plays an important role in adjusting the volume as it works as a indicator just like a button to set the volume whenever it goes down.
+
 <br>
 <br>
-Regards: Asad Ahmad
+# Libraries and packages used:
+  Numpy: used to handle array elements
+  Mediapipe: used to detect the hand
+  Open-cv: used to get the camera vision
+  Py-caw: used to access the volume of the system
+<br>
+<br>
+![1](https://github.com/Asad578/VolumeControllerUsingHandsGestures/assets/111720565/c5a2ff49-d8ab-4ca3-9fc3-dca103d6cd69)
+<br>
+<br>
+![2](https://github.com/Asad578/VolumeControllerUsingHandsGestures/assets/111720565/5524a562-a369-48af-8eb6-c7979d35714e)
